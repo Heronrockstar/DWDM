@@ -1,0 +1,19 @@
+@relation customer_data
+
+@attribute CustomerID numeric
+@attribute Age numeric
+@attribute Gender {Male, Female}
+@attribute AnnualIncome numeric
+@attribute SpendingScore numeric
+
+@data
+1,19,Male,15,39
+2,21,Female,16,81
+3,20,Female,17,6
+4,23,Male,18,77
+5,31,Female,25,40
+6,22,Female,30,76
+7,35,Male,45,65
+8,40,Male,60,40
+9,28,Female,70,35
+10,27,Male,80,78
